@@ -7,7 +7,7 @@ Image Processing:
 Image Convolutions - Uses image convolution operation to perform convolutions on different images
 
 Physics:
-HandsOnUsingForcesandParticles - Force-based particle system
+HandsOnUsingForcesandParticles - Force-based particle system;
 HandsOnUsingMassesandSprings - Force-based masses and springs
 
 Cool Projects:
